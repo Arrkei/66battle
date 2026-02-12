@@ -4,12 +4,5 @@ icons
 logs 
 node_modules 
 publishPROD 
-archive 
-build 
-dist 
-icons 
-logs 
-node_modules 
-publishPROD 
 doc 
 debug.log
